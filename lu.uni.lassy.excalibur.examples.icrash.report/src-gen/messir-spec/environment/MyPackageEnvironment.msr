@@ -1,0 +1,43 @@
+/*
+* @author Lin
+* @date Sat Apr 08 21:35:10 MSK 2017
+*/
+
+package lu.uni.lassy.excalibur.examples.icrash.concepts.messir.MyPackageEnvironment.msr {
+
+import lu.uni.lassy.messir.libraries.primitives
+
+
+	Environment Model {
+
+	}
+	Use Case Model {
+
+	use case system summary suMessageToMedia() {
+			//actor actCoordinator[primary,active]
+			//actor actEditor[secondary,active]
+
+			//reuse oeCreateSystemAndEnvironment[1..1]
+			//reuse ugAdministrateTheSystem[1..*]
+			//reuse suGlobalCrisisHandling[1..*]
+			//reuse oeSetClock[1..*]
+			//reuse oeSollicitateCrisisHandling[0..*]
+			//reuse oeAlert[1..*]
+ 
+			//step a: actCoordinator executes CreateCrisis//найти
+			//step b: actEditor executes GetCrisisInfo//создать
+			//step c: actEditor executes SelectInfo
+			//step d: actEditor executes SendInfoToMedia
+			
+      ordering constraint 
+        "step (a) must be always the first step."
+      ordering constraint 
+        "if (a) then previously (b)."
+      ordering constraint 
+        "if (c) then previously (d)."
+        //придумать что-нибудь
+		}
+	}
+
+
+}

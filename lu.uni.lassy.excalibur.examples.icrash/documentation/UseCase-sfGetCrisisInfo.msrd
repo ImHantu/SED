@@ -1,0 +1,24 @@
+/*
+@author Lin
+@date Thu Apr 27 22:08:35 MSK 2017
+*/
+
+
+@@Use Case Subfunction Media2.msr.sfGetCrisisInfo
+@description ""
+@protocolCondition
+"
+"
+@endProtocolConditions
+@preCondition
+"
+"
+@endPreConditions
+@postCondition
+"
+"
+@endPostConditions
+@additionalInformation
+"
+none
+"

@@ -1,0 +1,10 @@
+/*
+@author Lin
+@date Thu Apr 27 22:05:17 MSK 2017
+*/
+
+
+@@view uci-uciSimpleAndComplete
+@instance Use-Case icrash.usecases.suDeployAndRun.uciSimpleAndComplete 
+@description ""
+@caption ""

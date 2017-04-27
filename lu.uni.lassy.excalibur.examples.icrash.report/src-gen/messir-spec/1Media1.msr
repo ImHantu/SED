@@ -1,0 +1,33 @@
+/*
+* @author Lin
+* @date Thu Apr 27 21:34:18 MSK 2017
+*/
+
+package Media2.msr {
+
+import lu.uni.lassy.messir.libraries.primitives
+
+
+	Concept Model {
+
+		Primary Types {
+
+		}
+
+		Secondary Types {
+
+		}
+
+	}
+	Operation Model {
+
+	}
+	Use Case Model {
+
+	use case system subfunction sfGetCrisisInfo() {
+			actor icrash.environment.actMedia[primary, active]
+		}
+	}
+
+
+}

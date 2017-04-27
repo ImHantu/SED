@@ -1,0 +1,33 @@
+/*
+* @author Lin
+* @date Thu Apr 27 21:34:18 MSK 2017
+*/
+
+package Media2.msr {
+
+import lu.uni.lassy.messir.libraries.primitives
+
+
+	Concept Model {
+
+		Primary Types {
+
+		}
+
+		Secondary Types {
+
+		}
+
+	}
+	Operation Model {
+	operation: lu.uni.lassy.excalibur.examples.icrash.environment.1Media1.getCrisisInfo():ptBoolean
+	}
+	Use Case Model {
+
+	use case system subfunction sfGetCrisisInfo(CrisisInfo:ptString) {
+			actor icrash.environment.actMedia[primary, active]
+		} 
+	}
+
+
+}

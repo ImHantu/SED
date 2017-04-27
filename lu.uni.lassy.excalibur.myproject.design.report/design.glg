@@ -1,0 +1,34 @@
+;; This logfile was generated automatically by `xindy'
+;; at 27.04.2017  22:11:35
+;; Indexstyle: "C:\\Users\\Lin\\Documents\\GitHub\\LimS\\lu.uni.lassy.excalibur.myproject.design.report\\tmp-latex\\22bd12Jaqj", Rawindex: "C:\\Users\\Lin\\Documents\\GitHub\\LimS\\lu.uni.lassy.excalibur.myproject.design.report\\tmp-latex\\vM_u5irtM6", Output: "design.gls"
+
+
+Building indexentry-tree:
+Hierdepth of index is :TREE
+
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+
+Forming letter-groups:
+Letter-group: "ÐíÐÚ—» ÃÈ—Ë€Ú¨Ã¼" -> "S"
+Letter-group: "†Ã¼†—ÈÚ »Ã—´" -> "C"
+Letter-group: "—¼å¨ËÃ¼»—¼Ú »Ã—´" -> "E"
+Letter-group: "—È´Ãí»—¼Ú å¨—æ" -> "D"
+Letter-group: "¨»È´—»—¼Ú€Ú¨Ã¼ å¨—æ" -> "I"
+Letter-group: "à¨ ÈËÃ†—ÐÐ¨¼ å¨—æ" -> "U"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "†Ã¼†—ÈÚ »Ã—´" -> "C"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "—È´Ãí»—¼Ú å¨—æ" -> "D"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "—¼å¨ËÃ¼»—¼Ú »Ã—´" -> "E"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "¨»È´—»—¼Ú€Ú¨Ã¼ å¨—æ" -> "I"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "ÐíÐÚ—» ÃÈ—Ë€Ú¨Ã¼" -> "S"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "à¨ ÈËÃ†—ÐÐ¨¼ å¨—æ" -> "U"

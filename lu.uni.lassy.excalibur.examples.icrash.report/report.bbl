@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{messirbook}
+Guelfi, N.:
+\newblock {Messir: A Scientific Method for the Software Engineer}.
+\newblock to be published (2017)
+
+\bibitem{armour01usecase}
+Armour, F., Miller, G.:
+\newblock Advanced Use Case Modeling: Software Systems.
+\newblock Addison-Wesley (2001)
+
+\bibitem{iso-square-25010-2011}
+{ISO/IEC}:
+\newblock {ISO/IEC 25010 - Systems and software engineering - Systems and
+  software Quality Requirements and Evaluation (SQuaRE) - System and software
+  quality models}. (2011) ISO/IEC 13211-1.
+
+\end{thebibliography}

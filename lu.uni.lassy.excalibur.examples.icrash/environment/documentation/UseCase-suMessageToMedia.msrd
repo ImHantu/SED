@@ -1,0 +1,24 @@
+/*
+@author Lin
+@date Thu Apr 27 22:08:37 MSK 2017
+*/
+
+
+@@Use Case lu.uni.lassy.excalibur.examples.icrash.concepts.messir.MyPackageEnvironment.msr.suMessageToMedia
+@description ""
+@protocolCondition
+"
+"
+@endProtocolConditions
+@preCondition
+"
+"
+@endPreConditions
+@postCondition
+"
+"
+@endPostConditions
+@additionalInformation
+"
+none
+"

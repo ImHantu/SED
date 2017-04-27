@@ -1,0 +1,1 @@
+java -classpath C:\Users\Lin\eclipse\java-neon\eclipse\plugins\texlipse\texlipse.jar net.sourceforge.texlipse.viewer.util.FileLocationClient -p 55000 -f %1 -l %2

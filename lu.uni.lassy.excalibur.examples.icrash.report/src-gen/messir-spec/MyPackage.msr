@@ -1,0 +1,16 @@
+/*
+* @author Lin
+* @date Sat Apr 08 21:32:15 MSK 2017
+*/
+
+package lu.uni.lassy.excalibur.examples.icrash.concepts.messir.msr {
+
+import lu.uni.lassy.messir.libraries.primitives
+
+
+	Use Case Model {
+
+	}
+
+
+}
